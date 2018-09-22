@@ -5,7 +5,7 @@ This application utilizes html, css, react, javascript, and jsx to allow for use
 ![Live App](https://github.com/bshin19/bshin19.github.io/blob/master/global_assets/images/remem.gif)
 
 Static-sized images populate the page initially in a fixed order. A navbar sticks to the top of the page and displays relevant info such as correct guesses, current score, and the high score.
-![Onload](https://github.com/bshin19/bshin19.github.io/blob/master/global_assets/images/rememinit.PNG)
+![Onload](https://github.com/bshin19/bshin19.github.io/blob/master/global_assets/images/Rememinit.PNG)
 
 ### React
 Components are used to break up the web page into it's smallest parts.
