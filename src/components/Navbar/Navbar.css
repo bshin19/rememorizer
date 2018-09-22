@@ -1,0 +1,20 @@
+.navbar {
+    min-height: 70px;
+    background-color: gray;
+    position: fixed;
+    width: 100%;
+    font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+    z-index: 99;
+    white-space: nowrap;
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+}
+
+.navbar li {
+    display: inline-block;
+    width: 33.3%;
+    text-align: center;
+}
+
+.scores {
+    font-size: calc(6px + 10 * (100vw - 320px)/ 800);
+}

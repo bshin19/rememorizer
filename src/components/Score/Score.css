@@ -1,0 +1,3 @@
+.scores {
+    font-size: calc(6px + 10 * (100vw - 320px)/ 800);
+}
