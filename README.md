@@ -23,7 +23,7 @@ When an image is clicked that hasn't been clicked before, the score increments.
 
 If the new score is the high score, that value on the page is also updated through props.
 
-![High Score]([https://github.com/bshin19/bshin19.github.io/blob/master/global_assets/images/rememscore.PNG)
+![High Score](https://github.com/bshin19/bshin19.github.io/blob/master/global_assets/images/rememscore.PNG)
 
 #### 2. Unsuccessful Guess
 When an image is clicked that *has* already been clicked before, the score resets.
